@@ -1,3 +1,5 @@
+package FactoryPattern;
+
 
 public class ShapeFactory {
 	public Shape getObj(String shape)
